@@ -1,16 +1,45 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Mluew/Mluew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Mluew
 
-Here are some ideas to get you started:
+### Building bots, automation & AI-powered tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,git,github" />
+
+</p>
+
+<p align="center">
+
+Telegram Bot • AI / LLM • MetaTrader 5 • SQL • Automation
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Status |
+|---|---|
+| 🌙 **Mluew** | Coming soon... |
+| 🤖 **Blue Mom** | Coming soon... |
+| 🎨 **BD** | Coming soon... |
+| 📈 **Blue MT5** | Coming soon... |
+| 🛒 **BLUE STORE** | Coming soon... |
+
+---
+
+<div align="center">
+
+### Small steps → Big projects
+
+[Telegram](https://t.me/Mluev) · [Discord](https://discord.com/users/mluew)
+
+</div>
