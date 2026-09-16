@@ -11,17 +11,17 @@
 
 ---
 
+---
+
 ## ⚡ TECH STACK
 
-|  |  |  |  |
+| 🐍 Python | 🔀 Git | 🐙 GitHub | 🗄️ SQLite |
 | :---: | :---: | :---: | :---: |
-| ![Python](https://skillicons.dev/icons?i=python&theme=dark) | ![Git](https://skillicons.dev/icons?i=git&theme=dark) | ![GitHub](https://skillicons.dev/icons?i=github&theme=dark) | ![SQLite](https://skillicons.dev/icons?i=sqlite&theme=dark) |
-| **Python** | **Git** | **GitHub** | **SQLite** |
+| Development | Version Control | Code Hosting | Database |
 
-|  |  |  |  |
+| 🤖 Telegram Bot | 🧠 AI / LLM | 📈 MetaTrader 5 | ⚙️ Automation |
 | :---: | :---: | :---: | :---: |
-| ![Telegram](https://img.shields.io/badge/Telegram_Bot-0A0A0A?style=for-the-badge&logo=telegram&logoColor=2AABEE) | ![AI](https://img.shields.io/badge/AI_/_LLM-0A0A0A?style=for-the-badge&logo=openai&logoColor=FFFFFF) | ![MetaTrader 5](https://img.shields.io/badge/MetaTrader_5-0A0A0A?style=for-the-badge&logoColor=00AEEF) | ![Automation](https://img.shields.io/badge/Automation-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=FFFFFF) |
-| **Telegram Bot** | **AI / LLM** | **MetaTrader 5** | **Automation** |
+| Bot Development | AI Systems | Trading Systems | Workflows |
 
 ---
 
